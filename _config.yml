@@ -1,2 +1,4 @@
 name: Grupo Ciudadano
 pygments: true
+safe: true
+lsi: false
